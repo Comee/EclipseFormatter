@@ -1,3 +1,6 @@
+# Eclipse has already supported it
+![align items in columns](https://github.com/Comee/EclipseFormatter/blob/master/align_items_in_columns.png)
+
 # EclipseFormatter
 Align fields, assignments and variable declarations in columns.
 
